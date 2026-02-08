@@ -2,10 +2,10 @@ This spyware it's not a reel threat because if you run it in your computer the A
 The spyware does not works until you convert it to .exe , be careful if you want to edit it to work like a normal .py script some functions are going to break .
 
 How it's work ?
--When the victim runs it :
-1- Spyware gets all files in the pc .
-2- Send it via discord Webhook .
-3- Spyware auto-run when the pc reboot .
+- When the victim runs it :
+  - Spyware gets all files in the pc .
+  - Send it via discord Webhook .
+  - Spyware auto-run when the pc reboot .
 
 There's a Spyware.exe it's just an example of how the spyware should look like after converting it to .exe .
 
