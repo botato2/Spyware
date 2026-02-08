@@ -7,12 +7,12 @@ How it works ?
   - Send it via discord Webhook .
   - Spyware auto-run when the pc reboot .
 
-There's a setup.bat file that downloads :
+The setup.bat file is there just in case you want to test the spyware.py in a fresh new device , and here's what downloads .
 - Python
 - Git
 - REQUIRED PACKAGES for the spyware to work
-- OPTIONAL PACKAGES "You can remove them before runing the setup"
-The setup.bat file is there just in case you want to test the spyware.py in a fresh new device .
+- OPTIONAL PACKAGES "You can remove them before running the setup"
+
 
 Disclaimer : [ EDUCATIONAL PURPOSES ONLY ]
 - Don't use this script for malicious purposes , it can get you in a serious trouble if the victim launch a law suit against you !
