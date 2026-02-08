@@ -1,5 +1,5 @@
 This spyware it's not a reel threat because if you run it in your computer the ANTI-VIRUS is going to remove it immediately !
-The spyware does not works until you convert it to .exe , be careful if you want to edit it to work like a normal .py script some functions are going to break .
+The spyware does not works until you convert it to .exe , be careful if you want to edit it to make it work like a normal .py script some functions are going to break .
 
 How it's work ?
 - When the victim runs it :
