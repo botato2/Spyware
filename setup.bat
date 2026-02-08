@@ -15,28 +15,9 @@ if errorlevel 1 (
     echo Python already installed.
 )
 
-:: -------------------------------
-:: Check Git
-:: -------------------------------
-git --version >nul 2>&1
-if errorlevel 1 (
-    echo Git not found. Installing Git...
-    winget install -e --id Git.Git
-) else (
-    echo Git already installed.
-)
-
-echo.
-echo Restarting pip...
-python -m ensurepip --upgrade >nul 2>&1
-
-echo.
-echo Upgrading pip...
-python -m pip install --upgrade pip || python3 -m pip install --upgrade pip
-
 :: ===============================
 :: REQUIRED PACKAGES
-:: ===============================
+:: =============================== 
 echo.
 echo Installing REQUIRED packages...
 
