@@ -26,7 +26,7 @@ This project should only be used in **controlled environments**, such as:
 When executed in a test environment, the script demonstrates how security software reacts to programs that attempt to:
 
 * 📂 Access files on a system
-* 🌐 Communicate data externally
+* 🌐 Communicate data externally [Discord Web Hook]
 * 🔁 Maintain persistence after system reboot
 
 These actions are commonly monitored by antivirus and endpoint protection tools and are included **only to illustrate detection mechanisms**, not to bypass them.
