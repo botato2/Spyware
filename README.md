@@ -40,7 +40,6 @@ A `setup.bat` file is included to help configure a **clean testing environment**
 The setup script can automatically install:
 
 * 🐍 Python
-* 🌱 Git
 * 📦 Required Python packages for the demonstration
 * ➕ Optional Python packages *(can be removed before running the setup)*
 
