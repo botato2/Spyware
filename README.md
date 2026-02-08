@@ -1,5 +1,3 @@
----
-
 ## 📌 Overview
 
 This repository contains a **Windows-only educational demonstration** created to help learners understand how **malware-like behaviors are detected and mitigated by modern operating systems and antivirus software**.
